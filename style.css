@@ -1,0 +1,28 @@
+    body{
+        border: 2px solid black;
+        min-height: 100vh;
+        display: flex;
+        flex-flow: column;
+        justify-content: center;
+        align-items: center;
+        background-color: hsl(212, 45%, 89%);
+    }
+    .box{
+        background-color: white;
+        text-align: center;
+        padding: 15px;
+        margin-top: 15%;
+        margin-bottom: 15%;
+        width: 
+    }
+    
+    h1 p{
+        font-family: "Outift", sans-serif;
+        font-size: 15px;
+    }
+    .attribution { 
+        font-size: 0.6875rem; 
+        text-align: center;
+        border: 2px solid black; 
+    }
+    .attribution a { color: hsl(228, 45%, 44%); }
